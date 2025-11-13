@@ -1,5 +1,5 @@
 
-**`Desenvolvedora Front-end`**
+**`Desenvolvedor Front-end`**
 
 Sou Carlos Jue e sou estudante de Sistemas de Informação com um forte interesse em traduzir problemas de negócio em soluções digitais viáveis. Meu foco atual está na aquisição de conhecimentos em levantamento e especificação de requisitos, utilizando o diferencial de UX/UI e prototipação em Figma para garantir que as soluções criadas sejam completas, eficientes e altamente utilizáveis pelos usuários finais.
 
