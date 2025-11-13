@@ -40,11 +40,4 @@ Sou Carlos Jue e sou estudante de Sistemas de Informação com um forte interess
 <br/>
 
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
 
-</p>
